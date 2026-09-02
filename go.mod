@@ -170,7 +170,7 @@ require (
 
 replace (
 	github.com/99designs/keyring => github.com/lukachi/keyring v0.1.3
-	github.com/btcsuite/btcd => github.com/btcsuite/btcd v0.22.0-beta
+	github.com/btcsuite/btcd => github.com/btcsuite/btcd v0.22.3
 	github.com/confio/ics23/go => github.com/cosmos/cosmos-sdk/ics23/go v0.8.0
 	github.com/cosmos/cosmos-sdk => github.com/rarimo/cosmos-sdk v0.46.7
 	github.com/cosmos/iavl => github.com/cosmos/iavl v0.19.4
